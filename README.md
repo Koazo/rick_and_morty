@@ -22,6 +22,7 @@
  - cached_network_image: ^3.0.0
 
 ## Демонстрация
+<img src="https://user-images.githubusercontent.com/71566968/184686686-46cd72e8-9df6-407f-a5e9-34cb01dcc92f.png" alt="drawing" width="200"/>
 
 ![Screenshot_1660584865](https://user-images.githubusercontent.com/71566968/184686686-46cd72e8-9df6-407f-a5e9-34cb01dcc92f.png)
 ![Screenshot_1660584869](https://user-images.githubusercontent.com/71566968/184686712-d9e9568f-4616-47ba-87c5-14bc4805a3f7.png)
