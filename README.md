@@ -22,10 +22,8 @@
  - cached_network_image: ^3.0.0
 
 ## Демонстрация
-<img src="https://user-images.githubusercontent.com/71566968/184686686-46cd72e8-9df6-407f-a5e9-34cb01dcc92f.png" alt="drawing" width="200"/>
-
-![Screenshot_1660584865](https://user-images.githubusercontent.com/71566968/184686686-46cd72e8-9df6-407f-a5e9-34cb01dcc92f.png)
-![Screenshot_1660584869](https://user-images.githubusercontent.com/71566968/184686712-d9e9568f-4616-47ba-87c5-14bc4805a3f7.png)
-![Screenshot_1660584872](https://user-images.githubusercontent.com/71566968/184686718-32cac740-567a-4953-a611-8215f04d559a.png)
-![Screenshot_1660584876](https://user-images.githubusercontent.com/71566968/184686722-c53e62dd-25c8-43de-acec-bef858906ff2.png)
-![Screenshot_1660584882](https://user-images.githubusercontent.com/71566968/184686730-c9020076-4166-4b8b-8f41-bd25b128552d.png)
+<img src="https://user-images.githubusercontent.com/71566968/184686686-46cd72e8-9df6-407f-a5e9-34cb01dcc92f.png" alt="drawing" width="500"/>
+<img src="https://user-images.githubusercontent.com/71566968/184686712-d9e9568f-4616-47ba-87c5-14bc4805a3f7.png" alt="drawing" width="500"/>
+<img src="https://user-images.githubusercontent.com/71566968/184686718-32cac740-567a-4953-a611-8215f04d559a.png" alt="drawing" width="500"/>
+<img src="https://user-images.githubusercontent.com/71566968/184686722-c53e62dd-25c8-43de-acec-bef858906ff2.png" alt="drawing" width="500"/>
+<img src="https://user-images.githubusercontent.com/71566968/184686730-c9020076-4166-4b8b-8f41-bd25b128552d.png" alt="drawing" width="500"/>
